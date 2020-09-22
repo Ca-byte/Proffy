@@ -46,7 +46,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 git clone https://github.com/Ca-byte/proffy
 
 # Entrar no diretório
-cd proffy-discovery
+cd proffy
 
 # Baixar as dependências
 npm i
